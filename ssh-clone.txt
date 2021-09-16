@@ -1,0 +1,23 @@
+############ SSH-KEY CREATION COMMAND ##############
+ssh-keygen
+enter
+enter
+enter
+enter
+go to User home path 
+search for .ssh folder
+copy the id_rsa.pub key
+go to git settings & select SSH & GPG keys
+add new sshkey
+add name
+paste the ssh-key
+add ssh-key
+go to repository
+copy cloning URL link using SSH
+go to desktop open git bash
+do the git clone 
+authenticatio acces = YES
+perform operations 
+do git commits
+push the code using SSh-Key
+goto repo and check the changes.
